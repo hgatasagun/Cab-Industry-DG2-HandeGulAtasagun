@@ -1,4 +1,4 @@
-# Decoding the US Cab Industry: Data-Driven Investment Intelligence (Week2-Assignment)
+# Decoding the US Cab Industry: Data-Driven Investment Intelligence (Data Glacier Week2-Assignment)
 
 ## Business Problem
 XYZ, a private firm in the US, has observed significant growth in the Cab Industry in recent years and the presence of several key players in the market. The company is considering making an investment in the Cab industry and, in alignment with their Go-to-Market (G2M) strategies, they aim to thoroughly understand the market before making a final decision. XYZ seeks assistance in making this decision by conducting data analysis and selecting the right company to invest in.
